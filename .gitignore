@@ -25,4 +25,4 @@ tmp/
 .xslt_mal_history
 zig-cache/
 impls/odin/out/*
-!impls/odin/out/
+!impls/odin/out/.gitkeep
